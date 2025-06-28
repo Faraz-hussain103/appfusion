@@ -570,6 +570,7 @@ class Wishlistpage extends StatelessWidget {
                     ),
         
                     // Second Box
+                    // git added change by Faraz
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
