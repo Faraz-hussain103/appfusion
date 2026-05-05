@@ -1259,32 +1259,7 @@ class ProductDetailPage extends StatelessWidget {
                   ],
                 ),
               ),
-            ),
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
+            ),  
             Transform.translate(
               offset: const Offset(0, -40),
               child: Padding(
